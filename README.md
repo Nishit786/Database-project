@@ -1,2 +1,2 @@
 # Database-project
-Academic project  of Database management systemsat  Northeastern University (Summer 2017)
+Academic project  of Database management systems at  Northeastern University (Summer 2017)
